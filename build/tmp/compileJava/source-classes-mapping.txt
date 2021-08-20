@@ -1,0 +1,14 @@
+bigg/repository/IUserRepository.java
+ bigg.repository.IUserRepository
+bigg/services/UserService.java
+ bigg.services.UserService
+bigg/model/User.java
+ bigg.model.User
+bigg/services/IUserService.java
+ bigg.services.IUserService
+bigg/config/AppInit.java
+ bigg.config.AppInit
+bigg/config/AppConfig.java
+ bigg.config.AppConfig
+bigg/controller/UserController.java
+ bigg.controller.UserController
